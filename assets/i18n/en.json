@@ -1,0 +1,62 @@
+{
+  "GENERAL": {
+    "accept": "Accept",
+    "description": "Description",
+    "email": "Email",
+    "es": "SP",
+    "en": "EN",
+    "message": "Message",
+    "name": "Name",
+    "search": "Search",
+    "see_all": "See all",
+    "see_less": "See less",
+    "see_more": "See more",
+    "technology": "Technology"
+  },
+  "APP": {
+    "about_me": "About me",
+    "all_rights_reserved": "All Rights Reserved",
+    "contact": "Contact",
+    "experience": "Experience",
+    "home": "Home",
+    "resume": "Resume"
+  },
+  "ABOUT": {
+    "intro": "I am a web developer with 8 years of experience, of which 6 focused on FrontEnd, passionate about development and self-learning in technologies to create software.<br>I consider myself a responsible person, capable of taking on important challenges that can contribute to the development of a company.",
+    "who_i_am": "Who I'm and what I know"
+  },
+  "PORTFOLIO": {
+    "adoptapp": "Adoptapp is an application for Android® developed by students of the University of San Mateo, where the citizen of the Capital District will actively participate in the challenge of improving the conditions of companion animals that are in a state of help or support, through a means where you can make adoptions, donations and be a volunteer in the service days for companion animals, it will also allow the management of lost / found animals through a search and support network among citizens.",
+    "agrodata_ai": "Intelligent agricultural solutions, for this Angular application the 'Best Selling Option' and 'Production' modules were developed, centralizing components such as a map and graphics manager to facilitate and unify the repetitive implementation of said components.",
+    "aranda_service_desk": "Aranda Service Desk is a very interesting multiproject tool, for which I developed modules such as incident management through dashboards, inventory management with responsive support, visualization of tasks in a Gantt chart among other important features.",
+    "bavaria_plans": "Application with responsive support for the control of plans and control of discounts to customers, taking into account the quantity and types of products sold.",
+    "coinbay": "For this project, a responsive template system was developed for integration with Drupal®.",
+    "comefrexco": "ReactJS application for crop control, monitoring records, this project corresponds to the investigation of the Faculty of Engineering of the University of San Mateo in conjunction with Seven Capital Group.",
+    "edupol": "For this project, a responsive template system was developed for integration with Drupal®.",
+    "emcali": "This is an application developed by the brand Servinformacion S.A. for which I developed a real-time alerts module using Firebase Google Cloud.",
+    "eqp_windows": "For this project, a responsive template system was developed for integration with Drupal®.",
+    "greensill_platform": "Greensill Platform is a great project for which I have developed components like Dynamic Checkbox Table, Upload File, Document Preview, Document Cards, Dynamic Legal Terms.",
+    "lg_20_years": "For this project, a responsive template system was developed for integration with Drupal®.",
+    "menos_azucar": "For this project, a responsive template system was developed for integration with Drupal®.",
+    "megaland_bon_yurt": "For this project I developed an angular application connected to an existing Restful API developed in NodeJS, which was shown embedded within the official La Mega page.",
+    "new_colony": "For this project, a responsive template system was developed for integration with Drupal®.",
+    "papeles_nacionales": "For this project, a responsive template system was developed for integration with Drupal®.",
+    "pedidos_postobon": "For this project, a responsive support template system was developed for integration with an existing .Net application.",
+    "pyrex": "For this project, a responsive template system was developed for integration with Drupal®.",
+    "resolve_intelligence": "Intelligence is a tool for optimizing investment in media guides. For this project I developed the first version of the software in AngularJS v1.3 with style preprocessors and integrated with a Restful API.",
+    "saving_the_amazon": "For this project I developed a RestFul API with the Yii framework, additionally I made a frontend to manage the information of the trees, such as images, geographic data among others.",
+    "some_projects": "Some projects",
+    "suapp": "For this project I developed the frontend with responsive support, integrated with a Restful API that allows you to know data from the cameras (public and private) such as coordinates, streaming, among others, and you can also make reports of incidents according to their respective categories.",
+    "taxi_latino": "Platform for the control of the Taxi service with Google Cloud Platform services, for this project I implemented a new module called 'New Reservation', new components were created such as Pivot Table, Download in PDF and CSV format, Autocomplete API Directions from Google, Custom theme (Color palette definition) for the application and some settings for consumption of the Maps API.",
+    "torre_kova": "For this project I developed two landing pages with responsive support for the marketing strategy.",
+    "weather_map": "Responsive application also compiled for Android® devices, to provide recommendations, weather conditions and pollution according to the current location, you can also check the history of pollution levels."
+  },
+  "CONTACT": {
+    "message_error_occurred": "An error occurred while sending the message. Try it again later.",
+    "message_sent_successfully": "The message was sent successfully, I will contact you soon.",
+    "send_message": "Send message",
+    "send_me_message": "Send me a message",
+    "send_from_mail_client": "Send message from default mail client",
+    "you_can_reach_me": "You can reach me by email or find me on social media."
+  }
+}

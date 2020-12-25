@@ -1,0 +1,62 @@
+{
+  "GENERAL": {
+    "accept": "Aceptar",
+    "description": "Descripción",
+    "email": "Correo electrónico",
+    "es": "ES",
+    "en": "IN",
+    "message": "Mensaje",
+    "name": "Nombre",
+    "search": "Buscar",
+    "see_all": "Ver todos",
+    "see_less": "Ver menos",
+    "see_more": "Ver más",
+    "technology": "Tecnología"
+  },
+  "APP": {
+    "about_me": "Sobre mi",
+    "all_rights_reserved": "Todos los derechos reservados",
+    "contact": "Contacto",
+    "experience": "Experiencia",
+    "home": "Inicio",
+    "resume": "Currículum"
+  },
+  "ABOUT": {
+    "intro": "Soy desarrollador web con 8 años de experiencia, de los cuales 6 enfocado en FrontEnd, un apasionado por el desarrollo y el autoaprendizaje en las tecnologías para crear software.<br>Me considero una persona responsable, capaz de asumir retos importantes que puedan contribuir al desarrollo de una compañía.",
+    "who_i_am": "Quien soy y que se"
+  },
+  "PORTFOLIO": {
+    "adoptapp": "Adoptapp es una aplicación Android® desarrollada por estudiantes de la Universidad San Mateo, donde el ciudadano del Distrito Capital participará activamente en el reto de mejorar la condiciones de los animales de compañía que se encuentra en estado de ayuda o de apoyo, a través de un medio donde podrá realizar adopciones, donaciones y ser voluntario en las jornadas de servicio para los animales de compañía, también permitirá la gestión de animales perdidos/encontrados mediante una red de búsqueda y de apoyo entre la ciudadanía.",
+    "agrodata_ai": "Soluciones agropecuarias inteligentes, para esta aplicación Angular, se desarrolló el módulo de 'Mejor opción de venta' y 'Producción' centralizando componentes como mapa y gestor de graficas para facilitar y unificar la implementación reiterativa de dichos componentes.",
+    "aranda_service_desk": "Aranda Service Desk es una herramienta multiproyecto muy interesante, para la cual desarrollé módulos como la gestión de incidentes por tableros, gestión de inventario con soporte responsive, visualización de tareas en diagrama de Gantt entre otras funcionalidades importantes.",
+    "bavaria_plans": "Aplicación con soporte responsive para el control de planes y control de descuentos a clientes, teniendo en cuenta la cantidad y tipos de productos vendidos.",
+    "coinbay": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
+    "comefrexco": "Aplicación ReactJS para control de cultivos, registros de monitoreos, este proyecto corresponde a la investigación de la facultad de Ingeniería de la universidad San Mateo en conjunto con Seven Capital Group.",
+    "edupol": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
+    "emcali": "Esta es una aplicación desarrollada por la marca Servinformacion S.A. para la cual hice el desarrollo de un módulo de alertas en tiempo real utilizando Firebase Google Cloud.",
+    "eqp_windows": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
+    "greensill_platform": "Greensill Platform es un proyecto genial para el cual he desarrollado componentes tales como Checkbox Dynamic table, Upload File, Preview Documents, Documents Cards, Dynamic Legal Terms.",
+    "lg_20_years": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
+    "menos_azucar": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
+    "megaland_bon_yurt": "Para este proyecto desarrollé una aplicación angular conectada a una API Restful existente desarrollada en NodeJS, que se mostraba embebida dentro de la página oficial de La Mega.",
+    "new_colony": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
+    "papeles_nacionales": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
+    "pedidos_postobon": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con una aplicación existente en .Net.",
+    "pyrex": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
+    "resolve_intelligence": "Intelligence es una herramienta para optimizar la inversión en medios de pautas, Para este proyecto desarrollé la primera versión del software en AngularJS v1.3 con preprocesadores de estilos e integrado con una API Restful.",
+    "saving_the_amazon": "Para este proyecto desarrollé una API RestFul con el framework Yii, adicionalmente hice un frontend para gestionar la información de los árboles, como imágenes, datos geográficos entre otros.",
+    "some_projects": "Algunos proyectos",
+    "suapp": "Para este proyecto desarrollé el frontend con soporte responsive, integrado con una API Restful  que le permite conocer datos de las cámaras (públicas y privadas) como coordenadas, streaming entre otros, además también puede realizar los reportes de incidentes de acuerdo a sus respectivas categorías.",
+    "taxi_latino": "Plataforma para control de servicio Taxis con servicios Google Cloud Platform, para este proyecto implementé un nuevo módulo llamado 'Nueva Reserva', se crearon nuevos componentes tales como Tabla dinámica, Descarga en formato PDF y CSV, Autocomplete API Directions de Google, Tema personalizado (Definición de paleta de colores) para la aplicación y algunos ajustes para el consumo de la Api de Maps.",
+    "torre_kova": "Para este proyecto desarrollé dos landing page con soporte responsive para estrategia de marketing.",
+    "weather_map": "Aplicación responsiva compilada también para dispositivos Android®, para dar recomendaciones, estados del clima y contaminación de acuerdo a la ubicación actual, también se puede consultar el histórico de los niveles de contaminación."
+  },
+  "CONTACT": {
+    "message_error_occurred": "Se produjo un error al enviar el mensaje. Vuelva a intentarlo más tarde.",
+    "message_sent_successfully": "El mensaje fue enviado con éxito, me comunicaré contigo pronto.",
+    "send_message": "Enviar mensaje",
+    "send_me_message": "Envíame un mensaje",
+    "send_from_mail_client": "Enviar mensaje desde cliente de correo predeterminado",
+    "you_can_reach_me": "Puede comunicarse conmigo por correo electrónico o encuéntreme en las redes sociales."
+  }
+}
