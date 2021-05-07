@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1620324502136,
+  "timestamp": 1620431426425,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/4.fe7378a86284f229eac4.js",
         "/favicon.ico",
         "/index.html",
-        "/main.025c3dd59141631e6ec0.js",
+        "/main.bc59632c2b0187911a9a.js",
         "/manifest.webmanifest",
         "/polyfills.00096ed7d93ed26ee6df.js",
         "/runtime.326a66f46b7d98b355f0.js",
@@ -694,10 +694,10 @@
     "/favicon.ico": "3a739a70c9c233ac3f6780d93bbce9086c2c7db2",
     "/git-white.2f513b97693dc09a158a.svg": "caf0694f9c6f1f97d9ea8751aae0160e94dc93f1",
     "/git.18b228db6ff213dbd955.svg": "bb2591a134f3aa9a5c6bb4fc08ee9a0e05b8063c",
-    "/index.html": "b02d320cc1793e68b5f0941f261b56687ee323e9",
+    "/index.html": "4abd8fb443a2d30d58b12ceaa3e1a29a7de08909",
     "/linkedin-white.97607ca9a3925721b94a.svg": "4003048724ba6118713d92210adb5dc8f7ad0119",
     "/linkedin.231af892d7508e2ca4cc.svg": "3ca762175b2b45a4dec33675b5b5d976f7b2aa50",
-    "/main.025c3dd59141631e6ec0.js": "dea28c5e7b080c067b8f8e6623b4988d1fc06d15",
+    "/main.bc59632c2b0187911a9a.js": "9fc7089452f0427831e4bfeb6a0c28607a7dcc9b",
     "/manifest.webmanifest": "13baa381d4d36e48997968dbd6d777f460bf0075",
     "/polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "/runtime.326a66f46b7d98b355f0.js": "5c487c9bcfbcb082f3401456886db96f81359453",
