@@ -40,7 +40,7 @@
     "menos_azucar": "For this project, a responsive template system was developed for integration with Drupal®.",
     "megaland_bon_yurt": "For this project I developed an angular application connected to an existing Restful API developed in NodeJS, which was shown embedded within the official La Mega page.",
     "new_colony": "For this project, a responsive template system was developed for integration with Drupal®.",
-    "nested_choice": "Nested Choice is an angular component, for nested selections with a virtual offset, Angular Material is also built in. <a class='link' target='_blank' href='https://www.npmjs.com/package/nested-choice'>www.npmjs.com/package/nested-choice</a>",
+    "nested_choice": "Nested Choice is an angular component, for nested selections with a virtual offset, Angular Material is also built in. <a aria-label='nested-choice' rel='noreferrer' class='link' target='_blank' href='https://www.npmjs.com/package/nested-choice'>www.npmjs.com/package/nested-choice</a>",
     "papeles_nacionales": "For this project, a responsive template system was developed for integration with Drupal®.",
     "pedidos_postobon": "For this project, a responsive support template system was developed for integration with an existing .Net application.",
     "pyrex": "For this project, a responsive template system was developed for integration with Drupal®.",
@@ -49,7 +49,7 @@
     "some_projects": "Some projects",
     "suapp": "For this project I developed the frontend with responsive support, integrated with a Restful API that allows you to know data from the cameras (public and private) such as coordinates, streaming, among others, and you can also make reports of incidents according to their respective categories.",
     "taxi_latino": "Platform for the control of the Taxi service with Google Cloud Platform services, for this project I implemented a new module called 'New Reservation', new components were created such as Pivot Table, Download in PDF and CSV format, Autocomplete API Directions from Google, Custom theme (Color palette definition) for the application and some settings for consumption of the Maps API.",
-    "test_recaptcha_v3": "Test reCaptcha V3 is an application to test the operation of the keys and obtain the token to test from Postman. <a class='link' target='_blank' href='https://test-recaptcha-v3.herokuapp.com'>test-recaptcha-v3.herokuapp.com</a>",
+    "test_recaptcha_v3": "Test reCaptcha V3 is an application to test the operation of the keys and obtain the token to test from Postman. <a aria-label='test-recaptcha' rel='noreferrer' class='link' target='_blank' href='https://test-recaptcha-v3.herokuapp.com'>test-recaptcha-v3.herokuapp.com</a>",
     "the_movie_db": "The movie database is a proof of concept made with Vue technologies and making use of the movie API themoviedb, as well as using IndexedDB to keep the movies 'lazy' loading as it scrolls, simply rendering the covers that are visible on the screen. at that point of displacement.",
     "torre_kova": "For this project I developed two landing pages with responsive support for the marketing strategy.",
     "weather_map": "Responsive application also compiled for Android® devices, to provide recommendations, weather conditions and pollution according to the current location, you can also check the history of pollution levels."
