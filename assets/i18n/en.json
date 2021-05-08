@@ -11,7 +11,8 @@
     "see_all": "See all",
     "see_less": "See less",
     "see_more": "See more",
-    "technology": "Technology"
+    "technology": "Technology",
+    "update": "Update"
   },
   "APP": {
     "about_me": "About me",
@@ -19,6 +20,7 @@
     "contact": "Contact",
     "experience": "Experience",
     "home": "Home",
+    "message_update_software": "A software update is now available.",
     "resume": "Resume"
   },
   "ABOUT": {

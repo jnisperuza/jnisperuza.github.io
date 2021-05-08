@@ -11,7 +11,8 @@
     "see_all": "Ver todos",
     "see_less": "Ver menos",
     "see_more": "Ver más",
-    "technology": "Tecnología"
+    "technology": "Tecnología",
+    "update": "Actualización"
   },
   "APP": {
     "about_me": "Sobre mi",
@@ -19,6 +20,7 @@
     "contact": "Contacto",
     "experience": "Experiencia",
     "home": "Inicio",
+    "message_update_software": "Ya está disponible una actualización de software.",
     "resume": "Currículum"
   },
   "ABOUT": {
