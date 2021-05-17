@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1621219290780,
+  "timestamp": 1621219763947,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,13 +12,13 @@
       },
       "urls": [
         "/4.28e8688e42e6106c8be3.js",
-        "/5.d68c6a0a979af4f51ad9.js",
+        "/5.16dbb21bdd50b7f86e39.js",
         "/favicon.ico",
         "/index.html",
         "/main.e9f9536466624fae16b0.js",
         "/manifest.webmanifest",
         "/polyfills.00096ed7d93ed26ee6df.js",
-        "/runtime.ff5b4702fb40929e05e6.js",
+        "/runtime.093c2b77696b9cf81a46.js",
         "/styles.44c8b8f46a3c8d6070de.css"
       ],
       "patterns": []
@@ -370,7 +370,7 @@
   "dataGroups": [],
   "hashTable": {
     "/4.28e8688e42e6106c8be3.js": "9defdbeb7c00e8770a51fbb26d41fc32eb6d4199",
-    "/5.d68c6a0a979af4f51ad9.js": "486b63c07cc2f2830a66aaef48635b69d2fe73a0",
+    "/5.16dbb21bdd50b7f86e39.js": "80e2a0193e452277483fba974a09a9b5f6d1fc22",
     "/assets/docs/JeisonNisperuzaEN.jpg": "3e52618517e453c4d42eaf0497a608400b064c7f",
     "/assets/docs/JeisonNisperuzaEN.pdf": "fff78aec10c225b5396e049a272f66f8764141e3",
     "/assets/docs/JeisonNisperuzaES.jpg": "39e4336859770f17808734d7f55a2ca79c1b0c91",
@@ -698,13 +698,13 @@
     "/favicon.ico": "3a739a70c9c233ac3f6780d93bbce9086c2c7db2",
     "/git-white.d7d039805864ee874002.svg": "73a84ac3eeba3d6ac859bced459eb138a2732ec5",
     "/git.5e746858cad6f3fb2dc1.svg": "c28c8e4d33721c42766377bcde14da605728877b",
-    "/index.html": "4bdf85c8c8f3d1f607abe76209cb456cbf77eaeb",
+    "/index.html": "3e9ec588ef578a1c46d3c3007786c2412d1da7ca",
     "/linkedin-white.905df99a85753116eba4.svg": "fc2f8428308120579c44df92b3c8c21d70b107f0",
     "/linkedin.5ce9a4572c1042449343.svg": "647db000f80d90c20af22e9efd76b8c1c1aadd94",
     "/main.e9f9536466624fae16b0.js": "962a5c3f6a1309455cac9dee1264f3f944e742fc",
     "/manifest.webmanifest": "13baa381d4d36e48997968dbd6d777f460bf0075",
     "/polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
-    "/runtime.ff5b4702fb40929e05e6.js": "9e94342bb1b63af09895da0ac64772e01f854507",
+    "/runtime.093c2b77696b9cf81a46.js": "6b1e39777cac824c85c16e296024df63a38dd193",
     "/skype-white.d865f0f97610b87d5413.svg": "3b1132ea94b9a83240c8544495bb8ba61b8d738f",
     "/skype.d3ccce1d060e365642a5.svg": "86352b49cdb75c5e67e3f1358e91ce92199a0c31",
     "/styles.44c8b8f46a3c8d6070de.css": "69ae497a75e4dcb1b6742e1f56f5368f80ebf100",
