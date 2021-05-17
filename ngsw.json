@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1621126513557,
+  "timestamp": 1621219290780,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/4.b980357f10481cd7b09f.js",
-        "/5.f696bf8e39db15c44f45.js",
+        "/4.28e8688e42e6106c8be3.js",
+        "/5.d68c6a0a979af4f51ad9.js",
         "/favicon.ico",
         "/index.html",
-        "/main.0147179305763008546a.js",
+        "/main.e9f9536466624fae16b0.js",
         "/manifest.webmanifest",
         "/polyfills.00096ed7d93ed26ee6df.js",
-        "/runtime.70e94ea7e47bf4663fcc.js",
+        "/runtime.ff5b4702fb40929e05e6.js",
         "/styles.44c8b8f46a3c8d6070de.css"
       ],
       "patterns": []
@@ -31,8 +31,9 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/docs/JeisonNisperuza.pdf",
+        "/assets/docs/JeisonNisperuzaEN.jpg",
         "/assets/docs/JeisonNisperuzaEN.pdf",
+        "/assets/docs/JeisonNisperuzaES.jpg",
         "/assets/docs/JeisonNisperuzaES.pdf",
         "/assets/i18n/en.json",
         "/assets/i18n/es.json",
@@ -368,10 +369,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.b980357f10481cd7b09f.js": "e8a0010bdec119723597c5b4a39f5d0f0fed12bc",
-    "/5.f696bf8e39db15c44f45.js": "e070e913df7c274f3a84735ab3e2f6318ed2205a",
-    "/assets/docs/JeisonNisperuza.pdf": "583df511453098d2884e1c00e59650ce87366da9",
+    "/4.28e8688e42e6106c8be3.js": "9defdbeb7c00e8770a51fbb26d41fc32eb6d4199",
+    "/5.d68c6a0a979af4f51ad9.js": "486b63c07cc2f2830a66aaef48635b69d2fe73a0",
+    "/assets/docs/JeisonNisperuzaEN.jpg": "3e52618517e453c4d42eaf0497a608400b064c7f",
     "/assets/docs/JeisonNisperuzaEN.pdf": "fff78aec10c225b5396e049a272f66f8764141e3",
+    "/assets/docs/JeisonNisperuzaES.jpg": "39e4336859770f17808734d7f55a2ca79c1b0c91",
     "/assets/docs/JeisonNisperuzaES.pdf": "583df511453098d2884e1c00e59650ce87366da9",
     "/assets/i18n/en.json": "06a58f53848087ad597835342c2e2a1020076f43",
     "/assets/i18n/es.json": "af86848edfb0d886db16b1fc80f0d96ff24329e4",
@@ -380,7 +382,7 @@
     "/assets/icons/icon-152x152.png": "587f5b28d61c161a041ad385b212757043bf95c2",
     "/assets/icons/icon-192x192.png": "b7e4453c6ba914249d3026d535b6479cececee06",
     "/assets/icons/icon-384x384.png": "1d1796df820850db2ac20df70f26ce1a235f04c0",
-    "/assets/icons/icon-512x512.png": "b34fe5e0b3fb1fbd3b962eafe032c5482651103f",
+    "/assets/icons/icon-512x512.png": "a02f328696640293bf9eaa53727ab44fc4b300c3",
     "/assets/icons/icon-72x72.png": "43c0eab6dcd0c0ee2d57cef369de683e3a59acca",
     "/assets/icons/icon-96x96.png": "6dafcbc6889514a36d00a8428047ae2115d2d4b8",
     "/assets/images/FrontendEngineer.svg": "bdfbff3e84454023e0a9d0eaf8793f05a8b145e5",
@@ -696,13 +698,13 @@
     "/favicon.ico": "3a739a70c9c233ac3f6780d93bbce9086c2c7db2",
     "/git-white.d7d039805864ee874002.svg": "73a84ac3eeba3d6ac859bced459eb138a2732ec5",
     "/git.5e746858cad6f3fb2dc1.svg": "c28c8e4d33721c42766377bcde14da605728877b",
-    "/index.html": "10765b62d8826646d4d50c90a54cd135fb5f3d15",
+    "/index.html": "4bdf85c8c8f3d1f607abe76209cb456cbf77eaeb",
     "/linkedin-white.905df99a85753116eba4.svg": "fc2f8428308120579c44df92b3c8c21d70b107f0",
     "/linkedin.5ce9a4572c1042449343.svg": "647db000f80d90c20af22e9efd76b8c1c1aadd94",
-    "/main.0147179305763008546a.js": "289a1ccc2a89c36c9b63c1550440d8c5ca45b8b2",
+    "/main.e9f9536466624fae16b0.js": "962a5c3f6a1309455cac9dee1264f3f944e742fc",
     "/manifest.webmanifest": "13baa381d4d36e48997968dbd6d777f460bf0075",
     "/polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
-    "/runtime.70e94ea7e47bf4663fcc.js": "c4df8eeb3c0e08cca719960dbe038047b2cac5c9",
+    "/runtime.ff5b4702fb40929e05e6.js": "9e94342bb1b63af09895da0ac64772e01f854507",
     "/skype-white.d865f0f97610b87d5413.svg": "3b1132ea94b9a83240c8544495bb8ba61b8d738f",
     "/skype.d3ccce1d060e365642a5.svg": "86352b49cdb75c5e67e3f1358e91ce92199a0c31",
     "/styles.44c8b8f46a3c8d6070de.css": "69ae497a75e4dcb1b6742e1f56f5368f80ebf100",
