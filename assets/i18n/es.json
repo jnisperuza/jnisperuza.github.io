@@ -23,8 +23,11 @@
     "message_update_software": "Ya está disponible una actualización de software.",
     "resume": "Currículum"
   },
+  "HOME": {
+    "built_with": "Construido con"
+  },
   "ABOUT": {
-    "intro": "Soy desarrollador web con 8 años de experiencia, de los cuales 6 enfocado en FrontEnd, un apasionado por el desarrollo y el autoaprendizaje en las tecnologías para crear software.<br>Me considero una persona responsable, capaz de asumir retos importantes que puedan contribuir al desarrollo de una compañía.",
+    "intro": "Soy un Ingeniero Frontend con 9 años de experiencia, apasionado por el desarrollo y el autoaprendizaje en tecnologías para crear software. Estas son algunas de las tecnologías con las que he tenido la oportunidad de trabajar:",
     "who_i_am": "Quien soy y que se"
   },
   "PORTFOLIO": {
@@ -54,7 +57,9 @@
     "test_recaptcha_v3": "Test reCaptcha V3 es una aplicación para probar el funcionamiento de las claves y obtener el token para hacer pruebas desde Postman. <a aria-label='test-recaptcha' rel='noreferrer' class='link' target='_blank' href='https://test-recaptcha-v3.herokuapp.com'>test-recaptcha-v3.herokuapp.com</a>",
     "the_movie_db": "The movie DB es una prueba de concepto realizada con tecnologías Vue y haciendo uso de la API de peliculas themoviedb, además de que hace uso de IndexedDB para mantener la carga 'peresoza' de las peliculas a medida que se hace scroll, solo haciendo render de las portadas que se encuentran visibles en la pantalla en ese pundo del scroll.",
     "torre_kova": "Para este proyecto desarrollé dos landing page con soporte responsive para estrategia de marketing.",
-    "weather_map": "Aplicación responsiva compilada también para dispositivos Android®, para dar recomendaciones, estados del clima y contaminación de acuerdo a la ubicación actual, también se puede consultar el histórico de los niveles de contaminación."
+    "weather_map": "Aplicación responsiva compilada también para dispositivos Android®, para dar recomendaciones, estados del clima y contaminación de acuerdo a la ubicación actual, también se puede consultar el histórico de los niveles de contaminación.",
+    "geoagro": "GeoAgro es una herramienta para analizar el impacto de los productos y servicios de FINAGRO por medio de visores geográficos y bodega de datos.",
+    "lopido": "Marketplace de Copservir Ltda, aliado la rebaja Droguerías y Minimarkets, todo para la salud y el hogar, contruido con tecnología Vtex."
   },
   "CONTACT": {
     "message_error_occurred": "Se produjo un error al enviar el mensaje. Vuelva a intentarlo más tarde.",

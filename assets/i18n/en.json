@@ -23,8 +23,11 @@
     "message_update_software": "A software update is now available.",
     "resume": "Resume"
   },
+  "HOME": {
+    "built_with": "Built with"
+  },
   "ABOUT": {
-    "intro": "I am a web developer with 8 years of experience, of which 6 focused on FrontEnd, passionate about development and self-learning in technologies to create software.<br>I consider myself a responsible person, capable of taking on important challenges that can contribute to the development of a company.",
+    "intro": "I am a Frontend Engineer with 9 years of experience, passionate about the development and self-learning in technologies to create software. These are some of the technologies that I have had the opportunity to work with:",
     "who_i_am": "Who I'm and what I know"
   },
   "PORTFOLIO": {
@@ -54,7 +57,9 @@
     "test_recaptcha_v3": "Test reCaptcha V3 is an application to test the operation of the keys and obtain the token to test from Postman. <a aria-label='test-recaptcha' rel='noreferrer' class='link' target='_blank' href='https://test-recaptcha-v3.herokuapp.com'>test-recaptcha-v3.herokuapp.com</a>",
     "the_movie_db": "The movie database is a proof of concept made with Vue technologies and making use of the movie API themoviedb, as well as using IndexedDB to keep the movies 'lazy' loading as it scrolls, simply rendering the covers that are visible on the screen. at that point of displacement.",
     "torre_kova": "For this project I developed two landing pages with responsive support for the marketing strategy.",
-    "weather_map": "Responsive application also compiled for Android® devices, to provide recommendations, weather conditions and pollution according to the current location, you can also check the history of pollution levels."
+    "weather_map": "Responsive application also compiled for Android® devices, to provide recommendations, weather conditions and pollution according to the current location, you can also check the history of pollution levels.",
+    "geoagro": "GeoAgro is a tool to analyze the impact of FINAGRO products and services through geographic viewers and data warehouse.",
+    "lopido": "Marketplace of Copservir Ltda, allied to the discount of Drugstores and Minimarkets, all for health and home, built with Vtex technology."
   },
   "CONTACT": {
     "message_error_occurred": "An error occurred while sending the message. Try it again later.",
