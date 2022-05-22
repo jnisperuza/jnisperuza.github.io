@@ -59,7 +59,9 @@
     "torre_kova": "For this project I developed two landing pages with responsive support for the marketing strategy.",
     "weather_map": "Responsive application also compiled for Android® devices, to provide recommendations, weather conditions and pollution according to the current location, you can also check the history of pollution levels.",
     "geoagro": "GeoAgro is a tool to analyze the impact of FINAGRO products and services through geographic viewers and data warehouse.",
-    "lopido": "Marketplace of Copservir Ltda, allied to the discount of Drugstores and Minimarkets, all for health and home, built with Vtex technology."
+    "lopido": "Marketplace of Copservir Ltda, allied to the discount of Drugstores and Minimarkets, all for health and home, built with Vtex technology.",
+    "kitkaton": "Kitkaton is a marketplace where influencers can promote brand products, for this project I developed the following applications: Landing Page, Store, Checkout, Shopify Administrator, Store Administrator.",
+    "tu360movilidad": "Bancolombia portal focused on giving you different effective mobility solutions. For this project I developed a 'Custom Cart' with Vtex technology, personalization of the Vtex Checkout, Personalization of the purchase process to be able to 'Separate' a product with a fraction of the value defined by the user. GitHub Base proyect <a aria-label='custom-checkout-app' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/custom-checkout-app'>custom-checkout-app</a>"
   },
   "CONTACT": {
     "message_error_occurred": "An error occurred while sending the message. Try it again later.",
