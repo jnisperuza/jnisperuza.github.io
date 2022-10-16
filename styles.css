@@ -2368,5 +2368,41 @@ html app-root img.loading {
   object-fit: contain;
   object-position: 50% 50%;
 }
+body *,
+html * {
+  /* Only Chrome */
+  /* Only IE */
+  /* Only FireFox */
+}
+body *::-webkit-scrollbar,
+html *::-webkit-scrollbar {
+  width: 8px;
+}
+body *::-webkit-scrollbar-thumb,
+html *::-webkit-scrollbar-thumb {
+  background-color: rgba(204, 204, 204, 0.5);
+  background-clip: padding-box;
+  border-radius: 2rem;
+  border: 1px solid transparent;
+}
+body *::-webkit-scrollbar-track,
+html *::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+body * ::-webkit-scrollbar-button,
+html * ::-webkit-scrollbar-button {
+  background-color: transparent;
+}
+body *,
+html * {
+  scrollbar-face-color: rgba(204, 204, 204, 0.5);
+  scrollbar-shadow-color: transparent;
+  scrollbar-highlight-color: transparent;
+}
+body *,
+html * {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(204, 204, 204, 0.5) transparent;
+}
 
 /*# sourceMappingURL=styles.css.map*/

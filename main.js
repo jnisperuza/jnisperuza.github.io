@@ -711,14 +711,14 @@ class CONSTANTS {
 }
 // eslint-disable-next-line @typescript-eslint/naming-convention
 CONSTANTS.SKILLS = [{
-        text: 'Vtex IO',
+        text: 'Vtex',
         percent: 92
     }, {
-        text: 'Vtex CMS',
-        percent: 77
-    }, {
-        text: 'ReactJS',
+        text: 'React',
         percent: 97
+    }, {
+        text: 'React Query',
+        percent: 78
     }, {
         text: 'NextJS React Framework',
         percent: 93
@@ -731,6 +731,9 @@ CONSTANTS.SKILLS = [{
     }, {
         text: 'Redux (NgRx, React Redux, Vuex)',
         percent: 95
+    }, {
+        text: 'GraphQL',
+        percent: 60
     }, {
         text: 'TypeScript',
         percent: 95
@@ -752,6 +755,9 @@ CONSTANTS.SKILLS = [{
     }, {
         text: 'Lodash',
         percent: 95
+    }, {
+        text: 'Swiper',
+        percent: 88
     }, {
         text: 'Highcharts',
         percent: 98
