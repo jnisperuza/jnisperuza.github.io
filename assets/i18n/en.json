@@ -3,7 +3,7 @@
     "accept": "Accept",
     "description": "Description",
     "email": "Email",
-    "es": "SP",
+    "es": "ES",
     "en": "EN",
     "message": "Message",
     "name": "Name",
@@ -61,7 +61,9 @@
     "geoagro": "GeoAgro is a tool to analyze the impact of FINAGRO products and services through geographic viewers and data warehouse.",
     "lopido": "Marketplace of Copservir Ltda, allied to the discount of Drugstores and Minimarkets, all for health and home, built with Vtex technology.",
     "kitkaton": "Kitkaton is a marketplace where influencers can promote brand products, for this project I developed the following applications: Landing Page, Store, Checkout, Shopify Administrator, Store Administrator.",
-    "tu360movilidad": "Bancolombia portal focused on giving you different effective mobility solutions. For this project I developed a 'Custom Cart' with Vtex technology, personalization of the Vtex Checkout, Personalization of the purchase process to be able to 'Separate' a product with a fraction of the value defined by the user. GitHub Base proyect <a aria-label='custom-checkout-app' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/custom-checkout-app'>custom-checkout-app</a>"
+    "bancolombiatu360": "Bancolombia portal focused on giving you different effective mobility and real state solutions. For this project I developed a 'Custom Cart' with Vtex technology, personalization of the Vtex Checkout, Personalization of the purchase process to be able to 'Separate' a product with a fraction of the value defined by the user. GitHub Base proyect <a aria-label='custom-checkout-app' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/custom-checkout-app'>custom-checkout-app</a>",
+    "vtex_apps": "VTEX is an enterprise digital commerce platform, on which I have developed custom blocks and applications. <a aria-label='custom-checkout-app' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/custom-checkout-app'>custom-checkout-app</a>, <a aria-label='vtex-dynamic-tab-layout' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/vtex-dynamic-tab-layout'>vtex-dynamic-tab-layout</a>",
+    "lazy_image_renderer": "LazyImageRenderer is a NPM Library that handles the lazy rendering of the graphic ImageTag. <a aria-label='lazy-image-renderer' rel='noreferrer' class='link' target='_blank' href='https://www.npmjs.com/package/lazy-image-renderer'>lazy-image-renderer</a>"
   },
   "CONTACT": {
     "message_error_occurred": "An error occurred while sending the message. Try it again later.",
