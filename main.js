@@ -711,6 +711,9 @@ class CONSTANTS {
 }
 // eslint-disable-next-line @typescript-eslint/naming-convention
 CONSTANTS.SKILLS = [{
+        text: 'Storybook',
+        percent: 85
+    }, {
         text: 'Vtex',
         percent: 92
     }, {
@@ -812,6 +815,9 @@ CONSTANTS.SKILLS = [{
     }, {
         text: 'Gerrit',
         percent: 76
+    }, {
+        text: 'Figma',
+        percent: 40
     }, {
         text: 'Photoshop',
         percent: 35
@@ -1497,15 +1503,33 @@ __webpack_require__.r(__webpack_exports__);
 class CONSTANTS {
 }
 CONSTANTS.projects = [{
+        name: 'Kitkaton Storybook',
+        description: 'PORTFOLIO.kitkaton_storybook',
+        technical: [
+            'React',
+            'SASS',
+            'TypeScript',
+            'Storybook',
+            'CLSX',
+            'Rollup',
+            'Babel',
+            'Jest',
+            'NPM',
+        ],
+        cover: 'kitkaton-storybook1.png',
+        images: [
+            'kitkaton-storybook1.png',
+            'kitkaton-storybook2.png',
+        ]
+    }, {
         name: 'Lazy Image Renderer',
         description: 'PORTFOLIO.lazy_image_renderer',
         technical: [
             'React',
-            'CSS',
+            'SASS',
             'TypeScript',
             'Storybook',
             'CLSX',
-            'WeakMap',
             'Observers',
             'Rollup',
             'Babel',

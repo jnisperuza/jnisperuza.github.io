@@ -1,18 +1,7 @@
 {
-  "GENERAL": {
-    "accept": "Accept",
-    "description": "Description",
-    "email": "Email",
-    "es": "ES",
-    "en": "EN",
-    "message": "Message",
-    "name": "Name",
-    "search": "Search",
-    "see_all": "See all",
-    "see_less": "See less",
-    "see_more": "See more",
-    "technology": "Technology",
-    "update": "Update"
+  "ABOUT": {
+    "intro": "I am a Frontend Engineer with 9 years of experience, passionate about the development and self-learning in technologies to create software. These are some of the technologies that I have had the opportunity to work with:",
+    "who_i_am": "Who I'm and what I know"
   },
   "APP": {
     "about_me": "About me",
@@ -23,29 +12,54 @@
     "message_update_software": "A software update is now available.",
     "resume": "Resume"
   },
+  "CONTACT": {
+    "message_error_occurred": "An error occurred while sending the message. Try it again later.",
+    "message_sent_successfully": "The message was sent successfully, I will contact you soon.",
+    "send_from_mail_client": "Send message from default mail client",
+    "send_me_message": "Send me a message",
+    "send_message": "Send message",
+    "you_can_reach_me": "You can reach me by email or find me on social media."
+  },
+  "GENERAL": {
+    "accept": "Accept",
+    "description": "Description",
+    "email": "Email",
+    "en": "EN",
+    "es": "ES",
+    "message": "Message",
+    "name": "Name",
+    "search": "Search",
+    "see_all": "See all",
+    "see_less": "See less",
+    "see_more": "See more",
+    "technology": "Technology",
+    "update": "Update"
+  },
   "HOME": {
     "built_with": "Built with"
-  },
-  "ABOUT": {
-    "intro": "I am a Frontend Engineer with 9 years of experience, passionate about the development and self-learning in technologies to create software. These are some of the technologies that I have had the opportunity to work with:",
-    "who_i_am": "Who I'm and what I know"
   },
   "PORTFOLIO": {
     "adoptapp": "Adoptapp is an application for Android® developed by students of the University of San Mateo, where the citizen of the Capital District will actively participate in the challenge of improving the conditions of companion animals that are in a state of help or support, through a means where you can make adoptions, donations and be a volunteer in the service days for companion animals, it will also allow the management of lost / found animals through a search and support network among citizens.",
     "agrodata_ai": "Intelligent agricultural solutions, for this Angular application the 'Best Selling Option' and 'Production' modules were developed, centralizing components such as a map and graphics manager to facilitate and unify the repetitive implementation of said components.",
     "aranda_service_desk": "Aranda Service Desk is a very interesting multiproject tool, for which I developed modules such as incident management through dashboards, inventory management with responsive support, visualization of tasks in a Gantt chart among other important features.",
+    "bancolombiatu360": "Bancolombia portal focused on giving you different effective mobility and real state solutions. For this project I developed a 'Custom Cart' with Vtex technology, personalization of the Vtex Checkout, Personalization of the purchase process to be able to 'Separate' a product with a fraction of the value defined by the user. GitHub Base proyect <a aria-label='custom-checkout-app' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/custom-checkout-app'>custom-checkout-app</a>",
     "bavaria_plans": "Application with responsive support for the control of plans and control of discounts to customers, taking into account the quantity and types of products sold.",
     "coinbay": "For this project, a responsive template system was developed for integration with Drupal®.",
     "comefrexco": "ReactJS application for crop control, monitoring records, this project corresponds to the investigation of the Faculty of Engineering of the University of San Mateo in conjunction with Seven Capital Group.",
     "edupol": "For this project, a responsive template system was developed for integration with Drupal®.",
     "emcali": "This is an application developed by the brand Servinformacion S.A. for which I developed a real-time alerts module using Firebase Google Cloud.",
     "eqp_windows": "For this project, a responsive template system was developed for integration with Drupal®.",
+    "geoagro": "GeoAgro is a tool to analyze the impact of FINAGRO products and services through geographic viewers and data warehouse.",
     "greensill_platform": "Greensill Platform is a great project for which I have developed components like Dynamic Checkbox Table, Upload File, Document Preview, Document Cards, Dynamic Legal Terms.",
+    "kitkaton": "Kitkaton is a marketplace where influencers can promote brand products, for this project I developed the following applications: Landing Page, Store, Checkout, Shopify Administrator, Store Administrator.",
+    "kitkaton_storybook": "Storybook is a user interface development environment and playground for UI components. In Kitkaton, we use Storybook as a stand-alone and isolated environment to document and preview.",
+    "lazy_image_renderer": "LazyImageRenderer is a NPM Library that handles the lazy rendering of the graphic ImageTag. <a aria-label='lazy-image-renderer' rel='noreferrer' class='link' target='_blank' href='https://www.npmjs.com/package/lazy-image-renderer'>lazy-image-renderer</a>",
     "lg_20_years": "For this project, a responsive template system was developed for integration with Drupal®.",
-    "menos_azucar": "For this project, a responsive template system was developed for integration with Drupal®.",
+    "lopido": "Marketplace of Copservir Ltda, allied to the discount of Drugstores and Minimarkets, all for health and home, built with Vtex technology.",
     "megaland_bon_yurt": "For this project I developed an angular application connected to an existing Restful API developed in NodeJS, which was shown embedded within the official La Mega page.",
-    "new_colony": "For this project, a responsive template system was developed for integration with Drupal®.",
+    "menos_azucar": "For this project, a responsive template system was developed for integration with Drupal®.",
     "nested_choice": "Nested Choice is an angular component, for nested selections with a virtual offset, Angular Material is also built in. <a aria-label='nested-choice' rel='noreferrer' class='link' target='_blank' href='https://www.npmjs.com/package/nested-choice'>www.npmjs.com/package/nested-choice</a>",
+    "new_colony": "For this project, a responsive template system was developed for integration with Drupal®.",
     "papeles_nacionales": "For this project, a responsive template system was developed for integration with Drupal®.",
     "pedidos_postobon": "For this project, a responsive support template system was developed for integration with an existing .Net application.",
     "pyrex": "For this project, a responsive template system was developed for integration with Drupal®.",
@@ -57,20 +71,7 @@
     "test_recaptcha_v3": "Test reCaptcha V3 is an application to test the operation of the keys and obtain the token to test from Postman. <a aria-label='test-recaptcha' rel='noreferrer' class='link' target='_blank' href='https://test-recaptcha-v3.herokuapp.com'>test-recaptcha-v3.herokuapp.com</a>",
     "the_movie_db": "The movie database is a proof of concept made with Vue technologies and making use of the movie API themoviedb, as well as using IndexedDB to keep the movies 'lazy' loading as it scrolls, simply rendering the covers that are visible on the screen. at that point of displacement.",
     "torre_kova": "For this project I developed two landing pages with responsive support for the marketing strategy.",
-    "weather_map": "Responsive application also compiled for Android® devices, to provide recommendations, weather conditions and pollution according to the current location, you can also check the history of pollution levels.",
-    "geoagro": "GeoAgro is a tool to analyze the impact of FINAGRO products and services through geographic viewers and data warehouse.",
-    "lopido": "Marketplace of Copservir Ltda, allied to the discount of Drugstores and Minimarkets, all for health and home, built with Vtex technology.",
-    "kitkaton": "Kitkaton is a marketplace where influencers can promote brand products, for this project I developed the following applications: Landing Page, Store, Checkout, Shopify Administrator, Store Administrator.",
-    "bancolombiatu360": "Bancolombia portal focused on giving you different effective mobility and real state solutions. For this project I developed a 'Custom Cart' with Vtex technology, personalization of the Vtex Checkout, Personalization of the purchase process to be able to 'Separate' a product with a fraction of the value defined by the user. GitHub Base proyect <a aria-label='custom-checkout-app' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/custom-checkout-app'>custom-checkout-app</a>",
     "vtex_apps": "VTEX is an enterprise digital commerce platform, on which I have developed custom blocks and applications. <a aria-label='custom-checkout-app' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/custom-checkout-app'>custom-checkout-app</a>, <a aria-label='vtex-dynamic-tab-layout' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/vtex-dynamic-tab-layout'>vtex-dynamic-tab-layout</a>",
-    "lazy_image_renderer": "LazyImageRenderer is a NPM Library that handles the lazy rendering of the graphic ImageTag. <a aria-label='lazy-image-renderer' rel='noreferrer' class='link' target='_blank' href='https://www.npmjs.com/package/lazy-image-renderer'>lazy-image-renderer</a>"
-  },
-  "CONTACT": {
-    "message_error_occurred": "An error occurred while sending the message. Try it again later.",
-    "message_sent_successfully": "The message was sent successfully, I will contact you soon.",
-    "send_message": "Send message",
-    "send_me_message": "Send me a message",
-    "send_from_mail_client": "Send message from default mail client",
-    "you_can_reach_me": "You can reach me by email or find me on social media."
+    "weather_map": "Responsive application also compiled for Android® devices, to provide recommendations, weather conditions and pollution according to the current location, you can also check the history of pollution levels."
   }
 }

@@ -1,10 +1,31 @@
 {
-  "GENERAL": {
+	"ABOUT": {
+    "intro": "Soy un Ingeniero Frontend con 9 años de experiencia, apasionado por el desarrollo y el autoaprendizaje en tecnologías para crear software. Estas son algunas de las tecnologías con las que he tenido la oportunidad de trabajar:",
+    "who_i_am": "Quien soy y que se"
+  },
+	"APP": {
+    "about_me": "Sobre mi",
+    "all_rights_reserved": "Todos los derechos reservados",
+    "contact": "Contacto",
+    "experience": "Experiencia",
+    "home": "Inicio",
+    "message_update_software": "Ya está disponible una actualización de software.",
+    "resume": "Currículum"
+  },
+	"CONTACT": {
+    "message_error_occurred": "Se produjo un error al enviar el mensaje. Vuelva a intentarlo más tarde.",
+    "message_sent_successfully": "El mensaje fue enviado con éxito, me comunicaré contigo pronto.",
+    "send_from_mail_client": "Enviar mensaje desde cliente de correo predeterminado",
+    "send_me_message": "Envíame un mensaje",
+    "send_message": "Enviar mensaje",
+    "you_can_reach_me": "Puede comunicarse conmigo por correo electrónico o encuéntreme en las redes sociales."
+  },
+	"GENERAL": {
     "accept": "Aceptar",
     "description": "Descripción",
     "email": "Correo electrónico",
-    "es": "ES",
     "en": "EN",
+    "es": "ES",
     "message": "Mensaje",
     "name": "Nombre",
     "search": "Buscar",
@@ -14,38 +35,31 @@
     "technology": "Tecnología",
     "update": "Actualización"
   },
-  "APP": {
-    "about_me": "Sobre mi",
-    "all_rights_reserved": "Todos los derechos reservados",
-    "contact": "Contacto",
-    "experience": "Experiencia",
-    "home": "Inicio",
-    "message_update_software": "Ya está disponible una actualización de software.",
-    "resume": "Currículum"
-  },
-  "HOME": {
-    "built_with": "Construido con"
-  },
-  "ABOUT": {
-    "intro": "Soy un Ingeniero Frontend con 9 años de experiencia, apasionado por el desarrollo y el autoaprendizaje en tecnologías para crear software. Estas son algunas de las tecnologías con las que he tenido la oportunidad de trabajar:",
-    "who_i_am": "Quien soy y que se"
-  },
-  "PORTFOLIO": {
+	"HOME": {
+		"built_with": "Construido con"
+	},
+	"PORTFOLIO": {
     "adoptapp": "Adoptapp es una aplicación Android® desarrollada por estudiantes de la Universidad San Mateo, donde el ciudadano del Distrito Capital participará activamente en el reto de mejorar la condiciones de los animales de compañía que se encuentra en estado de ayuda o de apoyo, a través de un medio donde podrá realizar adopciones, donaciones y ser voluntario en las jornadas de servicio para los animales de compañía, también permitirá la gestión de animales perdidos/encontrados mediante una red de búsqueda y de apoyo entre la ciudadanía.",
     "agrodata_ai": "Soluciones agropecuarias inteligentes, para esta aplicación Angular, se desarrolló el módulo de 'Mejor opción de venta' y 'Producción' centralizando componentes como mapa y gestor de graficas para facilitar y unificar la implementación reiterativa de dichos componentes.",
     "aranda_service_desk": "Aranda Service Desk es una herramienta multiproyecto muy interesante, para la cual desarrollé módulos como la gestión de incidentes por tableros, gestión de inventario con soporte responsive, visualización de tareas en diagrama de Gantt entre otras funcionalidades importantes.",
+    "bancolombiatu360": "Portal de Bancolombia enfocado a darte diferentes soluciones efectivas de movilidad y vivienda. Para este proyecto desarrollé con tecnología Vtex un 'Carrito personalizado', personalización del Checkout de Vtex, Personalización de proceso de compra para poder hacer la 'Separación' de un producto con una fracción del valor definida por el usuario. Proyecto base GitHub <a aria-label='custom-checkout-app' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/custom-checkout-app'>custom-checkout-app</a>",
     "bavaria_plans": "Aplicación con soporte responsive para el control de planes y control de descuentos a clientes, teniendo en cuenta la cantidad y tipos de productos vendidos.",
     "coinbay": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
     "comefrexco": "Aplicación ReactJS para control de cultivos, registros de monitoreos, este proyecto corresponde a la investigación de la facultad de Ingeniería de la universidad San Mateo en conjunto con Seven Capital Group.",
     "edupol": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
     "emcali": "Esta es una aplicación desarrollada por la marca Servinformacion S.A. para la cual hice el desarrollo de un módulo de alertas en tiempo real utilizando Firebase Google Cloud.",
     "eqp_windows": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
+    "geoagro": "GeoAgro es una herramienta para analizar el impacto de los productos y servicios de FINAGRO por medio de visores geográficos y bodega de datos.",
     "greensill_platform": "Greensill Platform es un proyecto genial para el cual he desarrollado componentes tales como Checkbox Dynamic table, Upload File, Preview Documents, Documents Cards, Dynamic Legal Terms.",
+    "kitkaton": "Kitkaton es un marketplace donde influencers podrán promocionar productos de marca, para este proyecto desarrollé las siguientes aplicaciones: Landing Page, Store, Checkout, Shopify Administrator, Store Administrator.",
+    "kitkaton_storybook": "Storybook es un entorno de desarrollo de interfaces de usuario y un patio de recreo para componentes de interfaz de usuario. En Kitkaton, utilizamos Storybook como entorno independiente y aislado para documentar y previsualizar.",
+    "lazy_image_renderer": "LazyImageRenderer es una Librería de NPM que maneja la carga diferida del tag HTML img. <a aria-label='lazy-image-renderer' rel='noreferrer' class='link' target='_blank' href='https://www.npmjs.com/package/lazy-image-renderer'>lazy-image-renderer</a>",
     "lg_20_years": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
-    "menos_azucar": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
+    "lopido": "Marketplace de Copservir Ltda, aliado la rebaja Droguerías y Minimarkets, todo para la salud y el hogar, contruido con tecnología Vtex.",
     "megaland_bon_yurt": "Para este proyecto desarrollé una aplicación angular conectada a una API Restful existente desarrollada en NodeJS, que se mostraba embebida dentro de la página oficial de La Mega.",
-    "new_colony": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
+    "menos_azucar": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
     "nested_choice": "Nested Choice es un componente angular, para selecciones anidadas con un desplazamiento virtual, Angular Material también está integrado. <a aria-label='nested-choice' rel='noreferrer' class='link' target='_blank' href='https://www.npmjs.com/package/nested-choice'>www.npmjs.com/package/nested-choice</a>",
+    "new_colony": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
     "papeles_nacionales": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
     "pedidos_postobon": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con una aplicación existente en .Net.",
     "pyrex": "Para este proyecto se desarrollo un sistema de plantillas con soporte responsive para integración con Drupal®.",
@@ -57,20 +71,7 @@
     "test_recaptcha_v3": "Test reCaptcha V3 es una aplicación para probar el funcionamiento de las claves y obtener el token para hacer pruebas desde Postman. <a aria-label='test-recaptcha' rel='noreferrer' class='link' target='_blank' href='https://test-recaptcha-v3.herokuapp.com'>test-recaptcha-v3.herokuapp.com</a>",
     "the_movie_db": "The movie DB es una prueba de concepto realizada con tecnologías Vue y haciendo uso de la API de peliculas themoviedb, además de que hace uso de IndexedDB para mantener la carga 'peresoza' de las peliculas a medida que se hace scroll, solo haciendo render de las portadas que se encuentran visibles en la pantalla en ese pundo del scroll.",
     "torre_kova": "Para este proyecto desarrollé dos landing page con soporte responsive para estrategia de marketing.",
-    "weather_map": "Aplicación responsiva compilada también para dispositivos Android®, para dar recomendaciones, estados del clima y contaminación de acuerdo a la ubicación actual, también se puede consultar el histórico de los niveles de contaminación.",
-    "geoagro": "GeoAgro es una herramienta para analizar el impacto de los productos y servicios de FINAGRO por medio de visores geográficos y bodega de datos.",
-    "lopido": "Marketplace de Copservir Ltda, aliado la rebaja Droguerías y Minimarkets, todo para la salud y el hogar, contruido con tecnología Vtex.",
-    "kitkaton": "Kitkaton es un marketplace donde influencers podrán promocionar productos de marca, para este proyecto desarrollé las siguientes aplicaciones: Landing Page, Store, Checkout, Shopify Administrator, Store Administrator.",
-    "bancolombiatu360": "Portal de Bancolombia enfocado a darte diferentes soluciones efectivas de movilidad y vivienda. Para este proyecto desarrollé con tecnología Vtex un 'Carrito personalizado', personalización del Checkout de Vtex, Personalización de proceso de compra para poder hacer la 'Separación' de un producto con una fracción del valor definida por el usuario. Proyecto base GitHub <a aria-label='custom-checkout-app' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/custom-checkout-app'>custom-checkout-app</a>",
     "vtex_apps": "VTEX es una plataforma de comercio digital empresarial, sobre la cual he desarrollado bloques personalizados y aplicaciones. <a aria-label='custom-checkout-app' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/custom-checkout-app'>custom-checkout-app</a>, <a aria-label='vtex-dynamic-tab-layout' rel='noreferrer' class='link' target='_blank' href='https://github.com/jnisperuza/vtex-dynamic-tab-layout'>vtex-dynamic-tab-layout</a>",
-    "lazy_image_renderer": "LazyImageRenderer es una Librería de NPM que maneja la carga diferida del tag HTML img. <a aria-label='lazy-image-renderer' rel='noreferrer' class='link' target='_blank' href='https://www.npmjs.com/package/lazy-image-renderer'>lazy-image-renderer</a>"
-  },
-  "CONTACT": {
-    "message_error_occurred": "Se produjo un error al enviar el mensaje. Vuelva a intentarlo más tarde.",
-    "message_sent_successfully": "El mensaje fue enviado con éxito, me comunicaré contigo pronto.",
-    "send_message": "Enviar mensaje",
-    "send_me_message": "Envíame un mensaje",
-    "send_from_mail_client": "Enviar mensaje desde cliente de correo predeterminado",
-    "you_can_reach_me": "Puede comunicarse conmigo por correo electrónico o encuéntreme en las redes sociales."
+    "weather_map": "Aplicación responsiva compilada también para dispositivos Android®, para dar recomendaciones, estados del clima y contaminación de acuerdo a la ubicación actual, también se puede consultar el histórico de los niveles de contaminación."
   }
 }
