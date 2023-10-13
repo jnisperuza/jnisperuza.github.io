@@ -1509,6 +1509,36 @@ __webpack_require__.r(__webpack_exports__);
 class CONSTANTS {
 }
 CONSTANTS.projects = [{
+        name: 'ODS Colombia',
+        description: 'PORTFOLIO.ods',
+        technical: [
+            'React',
+            'SASS',
+            'TypeScript',
+            'CLSX',
+            'Axios',
+            'date-fns',
+            'lazy-image-renderer',
+            'react-icons',
+            'ReactQuery',
+            'TreeView',
+            'Lodash',
+            'Jest',
+        ],
+        cover: 'ods3.png',
+        images: [
+            'ods1.png',
+            'ods2.png',
+            'ods3.png',
+            'ods4.png',
+            'ods5.png',
+            'ods6.png',
+            'ods7.png',
+            'ods8.png',
+            'ods9.png',
+            'ods10.png',
+        ]
+    }, {
         name: 'Kitkaton Storybook',
         description: 'PORTFOLIO.kitkaton_storybook',
         technical: [
